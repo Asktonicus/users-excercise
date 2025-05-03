@@ -1,0 +1,4 @@
+jwt:
+  expiration:
+    months: 6
+  secret: jwqtL5kW5EBY6hPp9DvtV7GsT+zjXjlc0N/ViAaDLHQ=
