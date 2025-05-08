@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cl.exercise</groupId>
-	<artifactId>ntt</artifactId>
+	<artifactId>users</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ntt</name>
-	<description>Evaluación Java para NTT</description>
+	<name>nisum</name>
+	<description>Evaluación Java para Nisum</description>
 	<url/>
 	<licenses>
 		<license/>

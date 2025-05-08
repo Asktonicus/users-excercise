@@ -19,7 +19,7 @@ Esta API permite gestionar usuarios de una plataforma, incluyendo operaciones de
 
 La arquitectura de esta API de Gestión de Usuarios sigue un enfoque multicapa para garantizar escalabilidad, mantenibilidad y separación de responsabilidades. A continuación se muestra un diagrama que describe cómo interactúan los componentes principales:
 
-![Arquitectura General](docs/diagrama_solucion.png)
+![diagrama_solucion.png](docs/diagrama_solucion.png)
 
 ### Componentes Principales:
 
@@ -53,7 +53,7 @@ Este diseño promueve el desacoplamiento y facilita la implementación de prueba
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/Asktonicus/prueba-ntt.git
+git clone https://github.com/Asktonicus/users-excercise.git
 ```
 2. Navega al directorio del proyecto:
 ```bash

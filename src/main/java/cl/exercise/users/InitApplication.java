@@ -8,10 +8,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @SpringBootApplication
 @EnableTransactionManagement
 @EnableSpringDataWebSupport(pageSerializationMode = EnableSpringDataWebSupport.PageSerializationMode.VIA_DTO)
-public class NttApplication {
+public class InitApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NttApplication.class, args);
+		SpringApplication.run(InitApplication.class, args);
 	}
 
 }
